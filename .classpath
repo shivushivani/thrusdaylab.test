@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="StudentElectiveSystem/src/main/java/|studentfeedback/src/main/java/|studentfeedback/src/test/java/|StudentElectiveSystem/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="StudentElectiveSystem/src/main/java"/>
+	<classpathentry kind="src" path="StudentElectiveSystem/src/test/java"/>
+	<classpathentry kind="src" path="studentfeedback/src/main/java"/>
+	<classpathentry kind="src" path="studentfeedback/src/test/java"/>
+	<classpathentry kind="output" path="StudentElectiveSystem/target/classes"/>
+</classpath>
